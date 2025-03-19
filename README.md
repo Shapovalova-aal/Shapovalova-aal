@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### Статистика на GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shapovalova-aal&show_icons=true&hide=prs,issues&theme=cobalt&border_radius=4.5)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shapovalova-aal&show_icons=true&hide=prs,issues&theme=cobalt&border_radius=4.5&rank_icon=github)
 
 ### Мой стек технологий
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shapovalova-aal&layout=compact&theme=cobalt&border_radius=4.5)  
